@@ -9,4 +9,4 @@ Process includes:
 
 Results:
 
-![](/
+![](/gd_w2v.pdf)
