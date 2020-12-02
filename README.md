@@ -1,5 +1,5 @@
 # Dynamic-Word-Embeddings
-A word2vec model that stitches together multiple models through Procrustes alignment along a time series. Enables diachronic analysis of words. 
+A word2vec analysis that stitches together multiple models through Procrustes alignment along a time series. Enables diachronic analysis of words. 
 <br/>
 Process includes:
 1. Splitting dataset into time segments
